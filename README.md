@@ -137,38 +137,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+DASHBOARD:
 
-## 🙏 Acknowledgments
-- Dataset source: [Specify if applicable]
-- Inspired by real-world e-commerce analytics challenges
-```
+<img width="1356" height="736" alt="image" src="https://github.com/user-attachments/assets/d793776f-4048-4bef-9c87-731e38de4fe6" />
 
----
 
-## Alternative Short Descriptions:
-
-**Option 1 (Technical Focus):**
-```
-End-to-end customer analytics pipeline: Python + PostgreSQL + Power BI for e-commerce insights
-```
-
-**Option 2 (Business Focus):**
-```
-E-commerce Customer Behavior Analysis: Uncovering purchasing patterns and discount strategies
-```
-
-**Option 3 (Learning Focus):**
-```
-Data Science Portfolio Project: Customer Analytics with Python, SQL, and Business Intelligence
-```
-
----
-
-## Tags for GitHub:
-```
-data-science, python, postgresql, pandas, jupyter-notebook, power-bi, etl-pipeline, 
-data-analysis, business-intelligence, customer-analytics, sql, data-visualization
