@@ -34,6 +34,10 @@ customer-behavior-analysis/
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
 ```
+DASHBOARD:
+<img width="1356" height="736" alt="image" src="https://github.com/user-attachments/assets/d793776f-4048-4bef-9c87-731e38de4fe6" />
+
+
 
 ## 🚀 Key Features
 1. **Data Cleaning & Transformation**
@@ -137,8 +141,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-DASHBOARD:
 
-<img width="1356" height="736" alt="image" src="https://github.com/user-attachments/assets/d793776f-4048-4bef-9c87-731e38de4fe6" />
+
 
 
